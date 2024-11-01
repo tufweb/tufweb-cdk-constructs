@@ -1,4 +1,4 @@
-# cdk-constructs
+# tufweb-cdk-constructs
 Library of high level CDK constructs
 
 ## RestApiFromSpec
